@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @TajMohammad786
+- 👋 Hi, I’m @TajMohammad
 - 👀 I’m interested in Web Development 
 - I have interest in programming Languages
+- I like to learn new Languages
