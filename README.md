@@ -2,3 +2,12 @@
 - 👀 I’m interested in Web Development 
 - I have interest in programming Languages
 - I like to learn new Languages
+- My skills...
+- 1)C
+- 2)C++
+- 3)Java
+- 4)Python
+- 5)Mysql
+- 6)JavaScript
+- 7)HTML/CSS
+- 8)Data Structures & Algorithm
