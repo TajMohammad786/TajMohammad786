@@ -1,9 +1,52 @@
-"Aspiring Computer Engineer | Final Year Student
+Hi there, I'm Taj Mohammad Khan 👋
 
-🎓 I'm a passionate and results-driven final year Computer Engineering student with a strong foundation in software development and problem-solving. My journey in the world of technology has equipped me with a diverse skill set, and I'm excited to leverage it for real-world applications.
 
-💻 Proficient in React.js, Web Development, MongoDB, Express.js, Node.js, and C++, I've honed my skills through coursework and personal projects. I have a keen interest in building dynamic and user-friendly web applications, and I'm always eager to explore the latest tools and technologies.
 
-🔍 Problem-solving is at the core of my approach. I enjoy tackling complex challenges and turning them into creative solutions. Whether it's coding, troubleshooting, or optimizing processes, I thrive in problem-solving environments.
+🚀 Passionate about web development and software engineering, I am a fresher software engineer with expertise in modern web technologies. Currently working as a Backend Developer, I am eager to build scalable and efficient applications while continuously learning new technologies.
 
-🚀 Looking forward to opportunities that allow me to contribute to innovative projects, collaborate with like-minded professionals, and continue my journey of learning and growth in the world of technology.
+📜 About Me
+
+🎓 Bachelor of Engineering in Computer Engineering - VIVA Institute of Technology, Virar (CGPA: 8.94/10.0, June 2024)
+
+📚 Relevant Coursework: Data Structures & Algorithms, Database Management Systems, Computer Networks
+
+💼 Trainee Software Engineer @ VIP India (June 2024 - Present)
+
+Working with Vanilla JavaScript, Oracle SQL, and RhinoJS Engine
+
+Building backend code from scratch & supporting customer-facing applications
+
+Contributing to product-based software for beverage pricing systems
+
+🛠️ Tech Stack & Skills
+
+Languages & Frameworks:
+
+
+
+Databases:
+
+
+
+🎓 Certifications
+
+Front-End Development Course - Coursera by Meta
+
+Complete ReactJS Course - Udemy
+
+CSS and JavaScript Course - Udemy
+
+MySQL Crash Course - Udemy
+
+📈 GitHub Stats
+
+![TajMohammad786's Stats](https://github-readme-stats.vercel.app/api?username=TajMohammad786&theme=react&show_icons=true&hide_border=false&count_private=true)
+![TajMohammad786's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TajMohammad786&theme=react&hide_border=false)
+
+
+📫 Let's Connect!
+
+
+
+⭐ Feel free to explore my repositories and collaborate on exciting projects! 🚀
+
